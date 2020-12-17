@@ -4,6 +4,6 @@ import { Card, CardContent, CardHeader } from '@material-ui/core';
 export default () => (
     <Card>
         <CardHeader title="Welcome to the administration" />
-        <CardContent>Testing System</CardContent>
+        <CardContent>Nomask admin System</CardContent>
     </Card>
 ); 
